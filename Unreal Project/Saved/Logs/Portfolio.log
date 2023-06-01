@@ -901,3 +901,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.01-02.48.06:282][136]UATHelper: Packaging (HTML5): BUILD SUCCESSFUL
 [2023.06.01-02.48.06:282][136]UATHelper: Packaging (HTML5): AutomationTool exiting with ExitCode=0 (Success)
 [2023.06.01-02.55.19:037][427]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={E4195961-4F95-04A5-22DF-EA8DBEC6F47B}
+[2023.06.01-03.06.03:766][352]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2023.06.01-03.06.07:119][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
